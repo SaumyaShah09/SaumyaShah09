@@ -71,6 +71,9 @@
   <a href="https://www.leetcode.com/saumya_shah_09" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
+  <a href="https://www.blogger.com/profile/10947557204641596063" target="_blank">
+    <img src="https://img.shields.io/badge/Blogspot-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
+  </a>
 </p>
 
 ---
