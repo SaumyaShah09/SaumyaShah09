@@ -33,13 +33,13 @@
   <img src="https://img.shields.io/badge/SQLite3-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   <br/><br/>
   <a href="https://github.com/SaumyaShah09/CrewAI">
-    <img src="https://img.shields.io/badge/CrewAI%20Repo-Agent%20Framework-blueviolet?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/CrewAI-Build%20Agents-8E44AD?style=for-the-badge&logo=fastapi&logoColor=white" />
   </a>
   <a href="https://github.com/SaumyaShah09/Langchain">
-    <img src="https://img.shields.io/badge/LangChain%20Repo-LLM%20Chains-brightgreen?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/LangChain-Language%20Chains-4A90E2?style=for-the-badge&logo=openai&logoColor=white" />
   </a>
   <a href="https://github.com/SaumyaShah09/Agno">
-    <img src="https://img.shields.io/badge/Agno%20Repo-Custom%20Agent-orange?style=for-the-badge&logo=fastapi&logoColor=white" />
+    <img src="https://img.shields.io/badge/Agno-Smart%20Agent%20Platform-FF6F00?style=for-the-badge&logo=google&logoColor=white" />
   </a>
 </p>
 
@@ -53,6 +53,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
 </p>
 
 ### 🌐 Web Technologies  
